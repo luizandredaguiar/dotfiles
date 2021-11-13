@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luizandredaguiar@hotmail.com
+	name = LuizAndre Daguiar
